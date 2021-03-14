@@ -1,2 +1,2 @@
-# wheres wally progra,
+# wheres wally program
 A Program that can find Wally on a "Where's Wally" puzzle. Created using C++ and Object-Orientated Programming principles

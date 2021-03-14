@@ -1,0 +1,5 @@
+﻿  Main.cpp
+c:\users\myles\documents\2nd year assessments\oop assessment 1\oop assessment 1\oop assessment 1\main.cpp(88): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\myles\documents\2nd year assessments\oop assessment 1\oop assessment 1\oop assessment 1\main.cpp(126): warning C4101: 'j': unreferenced local variable
+  LINK : C:\Users\myles\Documents\2nd Year Assessments\OOP Assessment 1\OOP Assessment 1\Debug\OOP Assessment 1.exe not found or not built by the last incremental link; performing full link
+  OOP Assessment 1.vcxproj -> C:\Users\myles\Documents\2nd Year Assessments\OOP Assessment 1\OOP Assessment 1\Debug\OOP Assessment 1.exe
